@@ -1,2 +1,2 @@
 #!/bin/bash
-school.magic
+ls -amvp
